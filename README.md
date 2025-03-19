@@ -1,7 +1,5 @@
 # IMC-Prosperity2 (Island AlphaBravo)
 
-Participated in the challenge as an individual (not a good idea though). Final Ranking: 116th worldwide (out of 9,139), 6th Hong Kong. The challenge was kind of long and thanks to some delays, it got longer. After the 2nd Round, as it was the last week of my semester, I couldn't dedicate much time but still progressed a lot. The repository contains my final code for each of the 5 rounds, along with the corresponding log results. I have also added data and the scripts which I used to analyze this data that I got from IMC.
-
 Here is a link to the wiki of the challenge which contains the challenges for each round: [Prosperity 2 Wiki](https://imc-prosperity.notion.site/Prosperity-2-Wiki-fe650c0292ae4cdb94714a3f5aa74c85)
 
 ## Round 1
